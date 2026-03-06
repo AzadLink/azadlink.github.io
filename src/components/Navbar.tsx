@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import type { Dictionary, Locale } from "@/i18n/getDictionary";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 
@@ -23,12 +24,15 @@ export function Navbar({ dict, locale }: { dict: Dictionary; locale: Locale }) {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-surface-900/80 backdrop-blur-xl border-b border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link
-            href={prefix}
-            className="font-[Space_Grotesk] text-xl font-bold tracking-tight"
-          >
-            <span className="text-brand-400">Azad</span>
-            <span className="text-white">Link</span>
+          <Link href={prefix} className="flex items-center">
+            <Image
+              src="/logo.png"
+              alt="AzadLink"
+              width={160}
+              height={40}
+              className="h-8 w-auto"
+              priority
+            />
           </Link>
 
           <div className="hidden md:flex items-center gap-1">

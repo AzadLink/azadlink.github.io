@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Dictionary, Locale } from "@/i18n/getDictionary";
 import { TELEGRAM_LINK, GITHUB_LINK } from "@/lib/constants";
 
@@ -10,12 +11,14 @@ export function Footer({ dict, locale }: { dict: Dictionary; locale: Locale }) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-1">
-            <Link
-              href={prefix}
-              className="font-[Space_Grotesk] text-xl font-bold tracking-tight"
-            >
-              <span className="text-brand-400">Azad</span>
-              <span className="text-white">Link</span>
+            <Link href={prefix} className="inline-block">
+              <Image
+                src="/logo.png"
+                alt="AzadLink"
+                width={140}
+                height={35}
+                className="h-7 w-auto"
+              />
             </Link>
             <p className="mt-3 text-sm text-neutral-500 leading-relaxed">
               {dict.footer.tagline}
@@ -101,10 +104,10 @@ export function Footer({ dict, locale }: { dict: Dictionary; locale: Locale }) {
               </li>
               <li>
                 <a
-                  href="mailto:contact@azadlink.org"
+                  href="mailto:AzadLink@proton.me"
                   className="text-sm text-neutral-400 hover:text-brand-400 transition-colors"
                 >
-                  contact@azadlink.org
+                  AzadLink@proton.me
                 </a>
               </li>
             </ul>
