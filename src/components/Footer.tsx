@@ -15,9 +15,9 @@ export function Footer({ dict, locale }: { dict: Dictionary; locale: Locale }) {
               <Image
                 src="/logo.png"
                 alt="AzadLink"
-                width={140}
-                height={35}
-                className="h-7 w-auto"
+                width={180}
+                height={45}
+                className="h-9 w-auto"
               />
             </Link>
             <p className="mt-3 text-sm text-neutral-500 leading-relaxed">

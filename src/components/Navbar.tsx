@@ -28,9 +28,9 @@ export function Navbar({ dict, locale }: { dict: Dictionary; locale: Locale }) {
             <Image
               src="/logo.png"
               alt="AzadLink"
-              width={160}
-              height={40}
-              className="h-8 w-auto"
+              width={200}
+              height={50}
+              className="h-10 w-auto"
               priority
             />
           </Link>
