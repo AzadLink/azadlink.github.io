@@ -1,4 +1,5 @@
 export const TELEGRAM_LINK = "https://t.me/AzadLinkIran";
+export const GITHUB_LINK = "https://github.com/AzadLink";
 
 export const STATED_USERS = {
   iranians: 3_000_000,
