@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "AzadLink — Free Internet for All",
+    "description": "AzadLink is a non-profit organization fighting internet censorship. Connecting millions in Iran, China, Russia, and beyond to the free internet."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "members": "Members",
+    "howItWorks": "How It Works",
+    "donate": "Donate",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "The Internet Is a Human Right",
+    "subheadline": "We build bridges where walls are raised. AzadLink connects millions of people in censored regions to the free and open internet.",
+    "cta": "Join via Telegram",
+    "ctaSecondary": "How It Works"
+  },
+  "stats": {
+    "iraniansConnected": "Iranians Connected",
+    "chineseConnected": "Chinese Connected",
+    "russiansConnected": "Russians Connected",
+    "countriesServed": "Countries Served",
+    "connectionsServed": "Connections Served"
+  },
+  "globe": {
+    "title": "Global Reach, Real Impact",
+    "subtitle": "Every dot on this globe represents real connections from people accessing the free internet through AzadLink. Live data from our servers."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "AzadLink is a non-profit, volunteer-driven organization founded by a group of Iranians. We believe access to information is a fundamental human right. Our distributed network of servers provides secure, uncensored internet access to millions — primarily in Iran, but also in China, Russia, and other regions where the internet is restricted.",
+    "learnMore": "Learn More About Us"
+  },
+  "about": {
+    "title": "About AzadLink",
+    "originTitle": "Our Story",
+    "originText": "AzadLink was founded by Amin Alam and a group of passionate Iranians who experienced internet censorship firsthand. What started as a small effort to help friends and family access the free internet has grown into a global movement, connecting over 3.3 million people to uncensored information.",
+    "missionTitle": "Why We Exist",
+    "missionText": "In Iran, China, Russia, and many other countries, governments systematically block websites, social media, and communication tools. This digital oppression silences voices, disrupts education, and isolates communities from the rest of the world. AzadLink exists to break these barriers.",
+    "nonProfitTitle": "Non-Profit & Volunteer-Driven",
+    "nonProfitText": "AzadLink is a virtual non-profit organization. Every server, every line of code, every hour of support is contributed by volunteers who believe in digital freedom. We do not profit from our work — we do it because it matters.",
+    "techTitle": "Our Technology",
+    "techText": "We operate a sophisticated, distributed infrastructure using multiple cutting-edge protocols to stay ahead of censorship systems:",
+    "protocols": {
+      "vless": "VLESS Reality & WebSocket — Next-generation proxy protocol with advanced traffic obfuscation",
+      "shadowsocks": "Shadowsocks — Battle-tested encrypted proxy designed to bypass firewalls",
+      "wireguard": "WireGuard — Modern, high-performance VPN with state-of-the-art cryptography",
+      "mtproxy": "MTProxy — Telegram-native proxy for secure messaging access"
+    },
+    "impactTitle": "Our Impact"
+  },
+  "members": {
+    "title": "Our Team",
+    "subtitle": "The people behind the movement",
+    "founderTitle": "Founder & Lead",
+    "founderBio": "Iranian technologist and digital rights advocate. Founded AzadLink to fight internet censorship and provide free, secure internet access to millions. Leads infrastructure architecture, security operations, and the growing volunteer network.",
+    "metricsTitle": "By the Numbers",
+    "joinTitle": "Join the Movement",
+    "joinText": "AzadLink is built by volunteers from around the world. Whether you're a developer, designer, sysadmin, translator, or advocate — there's a place for you.",
+    "joinCta": "Get Involved via Telegram"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Getting connected to the free internet takes just a few minutes.",
+    "step1Title": "Join Our Telegram Channel",
+    "step1Text": "Visit @AzadLinkIran on Telegram to get the latest server configurations. Our bot provides fresh, working configs daily.",
+    "step2Title": "Get Your Configuration",
+    "step2Text": "Choose from multiple protocol options (VLESS, Shadowsocks, WireGuard) based on your needs. Copy the config link provided.",
+    "step3Title": "Import to Your App",
+    "step3Text": "Open a compatible VPN app (v2rayNG, Nekoray, Shadowrocket, etc.) and import the configuration with one tap.",
+    "step4Title": "Browse Freely",
+    "step4Text": "That's it. You now have uncensored access to the entire internet. Your connection is encrypted and secure.",
+    "securityTitle": "Your Security Matters",
+    "securityText": "All our protocols use modern encryption. We don't log your activity. Our infrastructure is designed with privacy at its core — because your freedom depends on it."
+  },
+  "donate": {
+    "title": "Support the Cause",
+    "subtitle": "Your contribution directly powers internet freedom for millions.",
+    "impactTitle": "Your Impact",
+    "impactText": "Every donation helps us maintain and expand our server network, develop better anti-censorship tools, and reach more people in need. AzadLink is 100% funded by donations and volunteer efforts.",
+    "stat1Label": "Cost per user per month",
+    "stat1Value": "< $0.01",
+    "stat2Label": "People you help with $10",
+    "stat2Value": "1,000+",
+    "stat3Label": "Of donations go to servers",
+    "stat3Value": "100%",
+    "donateTitle": "Make a Donation",
+    "donateText": "We are currently setting up secure donation channels. Please check back soon or contact us via Telegram for donation inquiries.",
+    "comingSoon": "Donation methods coming soon",
+    "contactDonate": "Contact Us to Donate",
+    "transparencyTitle": "Full Transparency",
+    "transparencyText": "As a non-profit, we are committed to full financial transparency. Every dollar donated goes directly to infrastructure costs — server hosting, bandwidth, and domain registrations. No salaries, no overhead."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about AzadLink",
+    "q1": "Is AzadLink free to use?",
+    "a1": "Yes, completely free. AzadLink is a non-profit organization. We provide free VPN and proxy services to anyone living under internet censorship. We rely on donations and volunteer contributions.",
+    "q2": "Is it safe to use AzadLink?",
+    "a2": "We take security extremely seriously. All our connections use modern, strong encryption protocols (VLESS Reality, Shadowsocks, WireGuard). We do not log user activity. Our infrastructure is designed to protect your privacy and anonymity.",
+    "q3": "Which platforms are supported?",
+    "a3": "AzadLink works on Android, iOS, Windows, macOS, and Linux. We provide configurations compatible with popular VPN clients like v2rayNG, Nekoray, Shadowrocket, Hiddify, and more.",
+    "q4": "How do I get started?",
+    "a4": "Join our Telegram channel @AzadLinkIran, where our bot provides fresh server configurations daily. Copy a config, import it into your VPN app, and you're connected. It takes less than 2 minutes.",
+    "q5": "Why do you use multiple protocols?",
+    "a5": "Censorship systems like Iran's and China's are sophisticated. By supporting multiple protocols (VLESS, Shadowsocks, WireGuard, MTProxy), we ensure that if one method is blocked, others remain available. This redundancy keeps our users connected.",
+    "q6": "Can I help or volunteer?",
+    "a6": "Absolutely! We welcome developers, system administrators, translators, designers, and anyone passionate about internet freedom. Reach out to us via our Telegram channel to get involved.",
+    "q7": "Who runs AzadLink?",
+    "a7": "AzadLink was founded by Amin Alam and is run by a dedicated team of volunteers from around the world. We are a non-profit, virtual organization with no commercial interests.",
+    "q8": "Do you serve only Iranians?",
+    "a8": "While AzadLink was founded to help Iranians, we serve anyone facing internet censorship. Our users include people from China, Russia, and many other countries with restricted internet access."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "telegramTitle": "Telegram Channel",
+    "telegramText": "Our primary communication channel. Get configs, updates, and support.",
+    "telegramCta": "Join @AzadLinkIran",
+    "emailTitle": "Email",
+    "emailText": "For partnerships, media inquiries, and formal communications.",
+    "emailAddress": "contact@azadlink.org",
+    "socialTitle": "Follow Us",
+    "socialText": "Stay updated with our latest news and developments.",
+    "volunteerTitle": "Want to Volunteer?",
+    "volunteerText": "Join our growing team of digital freedom fighters. We need developers, sysadmins, translators, and advocates.",
+    "volunteerCta": "Get Involved"
+  },
+  "footer": {
+    "tagline": "Building bridges where walls are raised.",
+    "rights": "AzadLink is a non-profit, volunteer-driven organization. Free internet for all.",
+    "nav": "Navigation",
+    "resources": "Resources",
+    "connect": "Connect"
+  }
+}

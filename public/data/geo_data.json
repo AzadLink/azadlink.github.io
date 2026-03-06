@@ -1,0 +1,3502 @@
+[
+    {
+      "latitude": 35.698,
+      "longitude": 51.4115,
+      "country": "IR",
+      "city": "Unknown",
+      "connection_count": 109269205
+    },
+    {
+      "latitude": 35.6824,
+      "longitude": 51.4158,
+      "country": "IR",
+      "city": "Tehran",
+      "connection_count": 20821207
+    },
+    {
+      "latitude": 36.3006,
+      "longitude": 59.5904,
+      "country": "IR",
+      "city": "Mashhad",
+      "connection_count": 17707865
+    },
+    {
+      "latitude": 29.6106,
+      "longitude": 52.5245,
+      "country": "IR",
+      "city": "Shiraz",
+      "connection_count": 10470248
+    },
+    {
+      "latitude": 40.504,
+      "longitude": 47.4997,
+      "country": "AZ",
+      "city": "Unknown",
+      "connection_count": 9903526
+    },
+    {
+      "latitude": 38.0838,
+      "longitude": 46.2947,
+      "country": "IR",
+      "city": "Tabriz",
+      "connection_count": 6835605
+    },
+    {
+      "latitude": 37.1453,
+      "longitude": 46.1076,
+      "country": "IR",
+      "city": "Malekān",
+      "connection_count": 5186381
+    },
+    {
+      "latitude": 34.7732,
+      "longitude": 113.722,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 3432159
+    },
+    {
+      "latitude": 36.6562,
+      "longitude": 51.5068,
+      "country": "IR",
+      "city": "Nowshahr",
+      "connection_count": 658713
+    },
+    {
+      "latitude": 39.911,
+      "longitude": 116.395,
+      "country": "CN",
+      "city": "Beijing",
+      "connection_count": 620155
+    },
+    {
+      "latitude": 32.6575,
+      "longitude": 51.6775,
+      "country": "IR",
+      "city": "Isfahan",
+      "connection_count": 594299
+    },
+    {
+      "latitude": 23.1181,
+      "longitude": 113.2539,
+      "country": "CN",
+      "city": "Guangzhou",
+      "connection_count": 561294
+    },
+    {
+      "latitude": 51.5614,
+      "longitude": 46.0388,
+      "country": "RU",
+      "city": "Saratov",
+      "connection_count": 459675
+    },
+    {
+      "latitude": 31.2222,
+      "longitude": 121.4581,
+      "country": "CN",
+      "city": "Shanghai",
+      "connection_count": 450819
+    },
+    {
+      "latitude": 55.7386,
+      "longitude": 37.6068,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 432982
+    },
+    {
+      "latitude": 36.2122,
+      "longitude": 58.8026,
+      "country": "IR",
+      "city": "Neyshabur",
+      "connection_count": 424836
+    },
+    {
+      "latitude": 55.7487,
+      "longitude": 37.6187,
+      "country": "RU",
+      "city": "Moscow",
+      "connection_count": 382162
+    },
+    {
+      "latitude": 36.5611,
+      "longitude": 53.0582,
+      "country": "IR",
+      "city": "Sari",
+      "connection_count": 331927
+    },
+    {
+      "latitude": 26.58,
+      "longitude": 106.7223,
+      "country": "CN",
+      "city": "Guiyang",
+      "connection_count": 314601
+    },
+    {
+      "latitude": 22.5455,
+      "longitude": 114.0683,
+      "country": "CN",
+      "city": "Shenzhen",
+      "connection_count": 274448
+    },
+    {
+      "latitude": 30.6667,
+      "longitude": 104.0667,
+      "country": "CN",
+      "city": "Chengdu",
+      "connection_count": 227234
+    },
+    {
+      "latitude": 31.8974,
+      "longitude": 54.3765,
+      "country": "IR",
+      "city": "Yazd",
+      "connection_count": 192359
+    },
+    {
+      "latitude": 56.8577,
+      "longitude": 60.6113,
+      "country": "RU",
+      "city": "Yekaterinburg",
+      "connection_count": 184997
+    },
+    {
+      "latitude": 30.5851,
+      "longitude": 114.2662,
+      "country": "CN",
+      "city": "Wuhan",
+      "connection_count": 165490
+    },
+    {
+      "latitude": 51.5391,
+      "longitude": 45.9985,
+      "country": "RU",
+      "city": "Saratov",
+      "connection_count": 160558
+    },
+    {
+      "latitude": 32.0589,
+      "longitude": 118.7738,
+      "country": "CN",
+      "city": "Nanjing",
+      "connection_count": 159268
+    },
+    {
+      "latitude": 34.2635,
+      "longitude": 108.9246,
+      "country": "CN",
+      "city": "Xi'an",
+      "connection_count": 153234
+    },
+    {
+      "latitude": 59.8983,
+      "longitude": 30.2618,
+      "country": "RU",
+      "city": "St Petersburg",
+      "connection_count": 148526
+    },
+    {
+      "latitude": 21,
+      "longitude": 96,
+      "country": "MM",
+      "city": "Unknown",
+      "connection_count": 144278
+    },
+    {
+      "latitude": 31.5618,
+      "longitude": 120.2864,
+      "country": "CN",
+      "city": "Wuxi",
+      "connection_count": 142687
+    },
+    {
+      "latitude": 35.3177,
+      "longitude": 46.9856,
+      "country": "IR",
+      "city": "Sanandaj",
+      "connection_count": 142440
+    },
+    {
+      "latitude": 39.1424,
+      "longitude": 117.1727,
+      "country": "CN",
+      "city": "Tianjin",
+      "connection_count": 135338
+    },
+    {
+      "latitude": 54.9896,
+      "longitude": 73.3729,
+      "country": "RU",
+      "city": "Omsk",
+      "connection_count": 132932
+    },
+    {
+      "latitude": 31.3093,
+      "longitude": 120.602,
+      "country": "CN",
+      "city": "Suzhou",
+      "connection_count": 129142
+    },
+    {
+      "latitude": 30.2943,
+      "longitude": 120.1663,
+      "country": "CN",
+      "city": "Hangzhou",
+      "connection_count": 125977
+    },
+    {
+      "latitude": 41.7806,
+      "longitude": 123.4314,
+      "country": "CN",
+      "city": "Shenyang",
+      "connection_count": 121058
+    },
+    {
+      "latitude": 34.7599,
+      "longitude": 113.6459,
+      "country": "CN",
+      "city": "Zhengzhou",
+      "connection_count": 115755
+    },
+    {
+      "latitude": 23.1181,
+      "longitude": 113.2539,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 102234
+    },
+    {
+      "latitude": 28.2014,
+      "longitude": 112.9611,
+      "country": "CN",
+      "city": "Changsha",
+      "connection_count": 99686
+    },
+    {
+      "latitude": 36.5266,
+      "longitude": 118.9929,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 99680
+    },
+    {
+      "latitude": 60.1719,
+      "longitude": 24.9347,
+      "country": "FI",
+      "city": "Helsinki",
+      "connection_count": 97800
+    },
+    {
+      "latitude": 23.0242,
+      "longitude": 113.1334,
+      "country": "CN",
+      "city": "Foshan",
+      "connection_count": 94147
+    },
+    {
+      "latitude": 50.4522,
+      "longitude": 30.5287,
+      "country": "UA",
+      "city": "Unknown",
+      "connection_count": 92651
+    },
+    {
+      "latitude": 52.3759,
+      "longitude": 4.8975,
+      "country": "NL",
+      "city": "Amsterdam",
+      "connection_count": 87973
+    },
+    {
+      "latitude": 25.0734,
+      "longitude": 55.2979,
+      "country": "AE",
+      "city": "Dubai",
+      "connection_count": 87331
+    },
+    {
+      "latitude": 52.7845,
+      "longitude": 52.2583,
+      "country": "RU",
+      "city": "Buzuluk",
+      "connection_count": 84092
+    },
+    {
+      "latitude": 51.6683,
+      "longitude": 39.192,
+      "country": "RU",
+      "city": "Voronezh",
+      "connection_count": 80820
+    },
+    {
+      "latitude": 44.9607,
+      "longitude": 34.1051,
+      "country": "UA",
+      "city": "Simferopol",
+      "connection_count": 76464
+    },
+    {
+      "latitude": 36.6683,
+      "longitude": 116.9972,
+      "country": "CN",
+      "city": "Jinan",
+      "connection_count": 76169
+    },
+    {
+      "latitude": 40.2997,
+      "longitude": -111.6737,
+      "country": "US",
+      "city": "Orem",
+      "connection_count": 74738
+    },
+    {
+      "latitude": 55.1553,
+      "longitude": 61.4313,
+      "country": "RU",
+      "city": "Chelyabinsk",
+      "connection_count": 74638
+    },
+    {
+      "latitude": 24.927,
+      "longitude": 118.5832,
+      "country": "CN",
+      "city": "Quanzhou",
+      "connection_count": 74461
+    },
+    {
+      "latitude": 26.0614,
+      "longitude": 119.3061,
+      "country": "CN",
+      "city": "Fuzhou",
+      "connection_count": 74244
+    },
+    {
+      "latitude": 24.4793,
+      "longitude": 118.0673,
+      "country": "CN",
+      "city": "Xiamen",
+      "connection_count": 73407
+    },
+    {
+      "latitude": 45.0355,
+      "longitude": 38.975,
+      "country": "RU",
+      "city": "Krasnodar",
+      "connection_count": 72759
+    },
+    {
+      "latitude": 33,
+      "longitude": 66,
+      "country": "AF",
+      "city": "Unknown",
+      "connection_count": 72461
+    },
+    {
+      "latitude": 25.0389,
+      "longitude": 102.7183,
+      "country": "CN",
+      "city": "Kunming",
+      "connection_count": 69705
+    },
+    {
+      "latitude": 58.0047,
+      "longitude": 56.2514,
+      "country": "RU",
+      "city": "Perm",
+      "connection_count": 68310
+    },
+    {
+      "latitude": 38.9122,
+      "longitude": 121.6022,
+      "country": "CN",
+      "city": "Dalian",
+      "connection_count": 64764
+    },
+    {
+      "latitude": 45.4995,
+      "longitude": -73.5848,
+      "country": "CA",
+      "city": "Montreal",
+      "connection_count": 64560
+    },
+    {
+      "latitude": 47.2359,
+      "longitude": 39.7134,
+      "country": "RU",
+      "city": "Rostov-on-Don",
+      "connection_count": 64012
+    },
+    {
+      "latitude": 37.2773,
+      "longitude": 49.5808,
+      "country": "IR",
+      "city": "Rasht",
+      "connection_count": 62138
+    },
+    {
+      "latitude": 43.88,
+      "longitude": 125.3247,
+      "country": "CN",
+      "city": "Changchun",
+      "connection_count": 62138
+    },
+    {
+      "latitude": 34.0609,
+      "longitude": -118.2414,
+      "country": "US",
+      "city": "Los Angeles",
+      "connection_count": 61748
+    },
+    {
+      "latitude": 29.8797,
+      "longitude": 121.5513,
+      "country": "CN",
+      "city": "Ningbo",
+      "connection_count": 61713
+    },
+    {
+      "latitude": 23.0177,
+      "longitude": 113.7506,
+      "country": "CN",
+      "city": "Dongguan",
+      "connection_count": 60529
+    },
+    {
+      "latitude": 34.3117,
+      "longitude": 47.0611,
+      "country": "IR",
+      "city": "Kermanshah",
+      "connection_count": 59594
+    },
+    {
+      "latitude": 16.7964,
+      "longitude": 96.1667,
+      "country": "MM",
+      "city": "Yangon",
+      "connection_count": 58977
+    },
+    {
+      "latitude": 54.0919,
+      "longitude": 61.574,
+      "country": "RU",
+      "city": "Troitsk",
+      "connection_count": 56491
+    },
+    {
+      "latitude": 29.5689,
+      "longitude": 106.5577,
+      "country": "CN",
+      "city": "Chongqing",
+      "connection_count": 53567
+    },
+    {
+      "latitude": 50.1169,
+      "longitude": 8.6837,
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "connection_count": 52849
+    },
+    {
+      "latitude": 31.8696,
+      "longitude": 117.293,
+      "country": "CN",
+      "city": "Hefei",
+      "connection_count": 51840
+    },
+    {
+      "latitude": 49.4527,
+      "longitude": 11.0783,
+      "country": "DE",
+      "city": "Nuremberg",
+      "connection_count": 49058
+    },
+    {
+      "latitude": 55.9712,
+      "longitude": 43.0853,
+      "country": "RU",
+      "city": "Pavlovo",
+      "connection_count": 48776
+    },
+    {
+      "latitude": 38.5347,
+      "longitude": 68.7778,
+      "country": "TJ",
+      "city": "Dushanbe",
+      "connection_count": 47184
+    },
+    {
+      "latitude": 36.544,
+      "longitude": 52.6668,
+      "country": "IR",
+      "city": "Babol",
+      "connection_count": 46542
+    },
+    {
+      "latitude": 54.0696,
+      "longitude": 44.9215,
+      "country": "RU",
+      "city": "Ruzayevka",
+      "connection_count": 46212
+    },
+    {
+      "latitude": 68.9702,
+      "longitude": 33.078,
+      "country": "RU",
+      "city": "Murmansk",
+      "connection_count": 46068
+    },
+    {
+      "latitude": 53.901,
+      "longitude": 27.5707,
+      "country": "BY",
+      "city": "Minsk",
+      "connection_count": 43446
+    },
+    {
+      "latitude": 31.2124,
+      "longitude": 107.4762,
+      "country": "CN",
+      "city": "Dazhou",
+      "connection_count": 43220
+    },
+    {
+      "latitude": 22.5231,
+      "longitude": 113.3791,
+      "country": "CN",
+      "city": "Zhongshan",
+      "connection_count": 41079
+    },
+    {
+      "latitude": 22.8111,
+      "longitude": 108.3168,
+      "country": "CN",
+      "city": "Nanning",
+      "connection_count": 40897
+    },
+    {
+      "latitude": 54.9376,
+      "longitude": 43.3261,
+      "country": "RU",
+      "city": "Sarov",
+      "connection_count": 40165
+    },
+    {
+      "latitude": 34.7599,
+      "longitude": 113.6459,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 39923
+    },
+    {
+      "latitude": 56.2756,
+      "longitude": 90.4924,
+      "country": "RU",
+      "city": "Achinsk",
+      "connection_count": 39750
+    },
+    {
+      "latitude": 55.7487,
+      "longitude": 37.6187,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 39164
+    },
+    {
+      "latitude": 56.4957,
+      "longitude": 84.9636,
+      "country": "RU",
+      "city": "Tomsk",
+      "connection_count": 38898
+    },
+    {
+      "latitude": 55.0226,
+      "longitude": 82.9317,
+      "country": "RU",
+      "city": "Novosibirsk",
+      "connection_count": 37050
+    },
+    {
+      "latitude": 33.7347,
+      "longitude": 113.3016,
+      "country": "CN",
+      "city": "Pingdingshan",
+      "connection_count": 36641
+    },
+    {
+      "latitude": 10.4873,
+      "longitude": -66.8738,
+      "country": "VE",
+      "city": "Caracas",
+      "connection_count": 36184
+    },
+    {
+      "latitude": 53.2061,
+      "longitude": 50.1509,
+      "country": "RU",
+      "city": "Samara",
+      "connection_count": 36056
+    },
+    {
+      "latitude": 37.4466,
+      "longitude": 116.3671,
+      "country": "CN",
+      "city": "Dezhou",
+      "connection_count": 34428
+    },
+    {
+      "latitude": 52.5876,
+      "longitude": 39.5515,
+      "country": "RU",
+      "city": "Lipetsk",
+      "connection_count": 34158
+    },
+    {
+      "latitude": 27.996,
+      "longitude": 120.6664,
+      "country": "CN",
+      "city": "Wenzhou",
+      "connection_count": 33082
+    },
+    {
+      "latitude": 34.0544,
+      "longitude": -118.244,
+      "country": "US",
+      "city": "Los Angeles",
+      "connection_count": 32157
+    },
+    {
+      "latitude": 52.2862,
+      "longitude": 4.7845,
+      "country": "NL",
+      "city": "Oude Meer",
+      "connection_count": 30876
+    },
+    {
+      "latitude": 37.3939,
+      "longitude": 57.9216,
+      "country": "IR",
+      "city": "Shīrvān",
+      "connection_count": 30193
+    },
+    {
+      "latitude": 40.54,
+      "longitude": 34.8588,
+      "country": "TR",
+      "city": "Çorum",
+      "connection_count": 30135
+    },
+    {
+      "latitude": 64.543,
+      "longitude": 40.5371,
+      "country": "RU",
+      "city": "Arkhangelsk",
+      "connection_count": 30019
+    },
+    {
+      "latitude": 30.6667,
+      "longitude": 104.0667,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 29778
+    },
+    {
+      "latitude": 34.5329,
+      "longitude": 69.1682,
+      "country": "AF",
+      "city": "Kabul",
+      "connection_count": 29742
+    },
+    {
+      "latitude": 48.4817,
+      "longitude": 135.083,
+      "country": "RU",
+      "city": "Khabarovsk",
+      "connection_count": 29706
+    },
+    {
+      "latitude": 38.036,
+      "longitude": 114.4654,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 29657
+    },
+    {
+      "latitude": 45.3618,
+      "longitude": 36.4705,
+      "country": "UA",
+      "city": "Kerch",
+      "connection_count": 29540
+    },
+    {
+      "latitude": 55.785,
+      "longitude": 49.1178,
+      "country": "RU",
+      "city": "Kazan'",
+      "connection_count": 29284
+    },
+    {
+      "latitude": 38.036,
+      "longitude": 114.4654,
+      "country": "CN",
+      "city": "Shijiazhuang",
+      "connection_count": 29044
+    },
+    {
+      "latitude": 34.0864,
+      "longitude": 49.6889,
+      "country": "IR",
+      "city": "Arak",
+      "connection_count": 28592
+    },
+    {
+      "latitude": 27.8329,
+      "longitude": 113.1454,
+      "country": "CN",
+      "city": "Jianning",
+      "connection_count": 28319
+    },
+    {
+      "latitude": 36.061,
+      "longitude": 120.3814,
+      "country": "CN",
+      "city": "Qingdao",
+      "connection_count": 27796
+    },
+    {
+      "latitude": 25.0389,
+      "longitude": 102.7183,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 27064
+    },
+    {
+      "latitude": 48.0243,
+      "longitude": 37.8115,
+      "country": "UA",
+      "city": "Donetsk",
+      "connection_count": 26762
+    },
+    {
+      "latitude": 53.8235,
+      "longitude": 39.544,
+      "country": "RU",
+      "city": "Skopin",
+      "connection_count": 26720
+    },
+    {
+      "latitude": 31.7685,
+      "longitude": 119.9527,
+      "country": "CN",
+      "city": "Changzhou",
+      "connection_count": 26707
+    },
+    {
+      "latitude": 46.3529,
+      "longitude": 48.0439,
+      "country": "RU",
+      "city": "Astrakhan",
+      "connection_count": 26005
+    },
+    {
+      "latitude": 31.6025,
+      "longitude": 117.8648,
+      "country": "CN",
+      "city": "Chaohu",
+      "connection_count": 25749
+    },
+    {
+      "latitude": 31.2226,
+      "longitude": 50.6652,
+      "country": "IR",
+      "city": "Genāveh",
+      "connection_count": 25533
+    },
+    {
+      "latitude": 34.7986,
+      "longitude": 114.3074,
+      "country": "CN",
+      "city": "Kaifeng",
+      "connection_count": 25409
+    },
+    {
+      "latitude": 23.578,
+      "longitude": 58.4021,
+      "country": "OM",
+      "city": "Muscat",
+      "connection_count": 25367
+    },
+    {
+      "latitude": 33.3364,
+      "longitude": 44.4004,
+      "country": "IQ",
+      "city": "Baghdad",
+      "connection_count": 25131
+    },
+    {
+      "latitude": 10.1369,
+      "longitude": -64.6864,
+      "country": "VE",
+      "city": "Barcelona",
+      "connection_count": 24801
+    },
+    {
+      "latitude": 31.0371,
+      "longitude": 31.3844,
+      "country": "EG",
+      "city": "Al Mansurah",
+      "connection_count": 24524
+    },
+    {
+      "latitude": 56.8577,
+      "longitude": 60.6113,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 24212
+    },
+    {
+      "latitude": 30.5851,
+      "longitude": 114.2662,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 23071
+    },
+    {
+      "latitude": 48.8558,
+      "longitude": 2.3494,
+      "country": "FR",
+      "city": "Paris",
+      "connection_count": 22705
+    },
+    {
+      "latitude": 32.2548,
+      "longitude": 50.5502,
+      "country": "IR",
+      "city": "Fārsān",
+      "connection_count": 22589
+    },
+    {
+      "latitude": 11.5583,
+      "longitude": 104.9121,
+      "country": "KH",
+      "city": "Phnom Penh",
+      "connection_count": 22398
+    },
+    {
+      "latitude": 42.9796,
+      "longitude": 47.5074,
+      "country": "RU",
+      "city": "Makhachkala",
+      "connection_count": 21790
+    },
+    {
+      "latitude": 48.8582,
+      "longitude": 2.3387,
+      "country": "FR",
+      "city": "Unknown",
+      "connection_count": 20982
+    },
+    {
+      "latitude": 44.8768,
+      "longitude": 40.2182,
+      "country": "RU",
+      "city": "Maykop",
+      "connection_count": 20868
+    },
+    {
+      "latitude": 23.6673,
+      "longitude": 58.1912,
+      "country": "OM",
+      "city": "Seeb",
+      "connection_count": 20786
+    },
+    {
+      "latitude": 44.1556,
+      "longitude": 43.4702,
+      "country": "RU",
+      "city": "Georgiyevsk",
+      "connection_count": 20419
+    },
+    {
+      "latitude": 28.6796,
+      "longitude": 115.8655,
+      "country": "CN",
+      "city": "Nanchang",
+      "connection_count": 20055
+    },
+    {
+      "latitude": 29.5078,
+      "longitude": 60.8661,
+      "country": "IR",
+      "city": "Zahedan",
+      "connection_count": 19851
+    },
+    {
+      "latitude": 45.0424,
+      "longitude": 41.9707,
+      "country": "RU",
+      "city": "Stavropol",
+      "connection_count": 19428
+    },
+    {
+      "latitude": 56.0374,
+      "longitude": 92.9314,
+      "country": "RU",
+      "city": "Krasnoyarsk",
+      "connection_count": 19397
+    },
+    {
+      "latitude": 31.6348,
+      "longitude": -8.0025,
+      "country": "MA",
+      "city": "Marrakesh",
+      "connection_count": 19185
+    },
+    {
+      "latitude": 36.7906,
+      "longitude": 118.0633,
+      "country": "CN",
+      "city": "Zibo",
+      "connection_count": 19093
+    },
+    {
+      "latitude": 1.3665,
+      "longitude": 103.9681,
+      "country": "SG",
+      "city": "Loyang",
+      "connection_count": 19076
+    },
+    {
+      "latitude": 34.2635,
+      "longitude": 108.9246,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 18423
+    },
+    {
+      "latitude": 56.1551,
+      "longitude": 38.8609,
+      "country": "RU",
+      "city": "Kirzhach",
+      "connection_count": 18396
+    },
+    {
+      "latitude": 45.0448,
+      "longitude": 38.9723,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 18121
+    },
+    {
+      "latitude": 52.2984,
+      "longitude": 104.2903,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 17785
+    },
+    {
+      "latitude": 58.381,
+      "longitude": 33.9136,
+      "country": "RU",
+      "city": "Borovichi",
+      "connection_count": 17662
+    },
+    {
+      "latitude": 24.4542,
+      "longitude": 54.406,
+      "country": "AE",
+      "city": "Abu Dhabi",
+      "connection_count": 17393
+    },
+    {
+      "latitude": 37.0637,
+      "longitude": 114.4941,
+      "country": "CN",
+      "city": "Xingtai",
+      "connection_count": 17325
+    },
+    {
+      "latitude": 8,
+      "longitude": -66,
+      "country": "VE",
+      "city": "Unknown",
+      "connection_count": 17061
+    },
+    {
+      "latitude": 31.2222,
+      "longitude": 121.4581,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 16992
+    },
+    {
+      "latitude": 43.88,
+      "longitude": 125.3247,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 16935
+    },
+    {
+      "latitude": 57.6299,
+      "longitude": 39.8737,
+      "country": "RU",
+      "city": "Yaroslavl",
+      "connection_count": 16911
+    },
+    {
+      "latitude": 38.5511,
+      "longitude": 44.9492,
+      "country": "IR",
+      "city": "Khowy",
+      "connection_count": 16800
+    },
+    {
+      "latitude": 9.9667,
+      "longitude": 76.2667,
+      "country": "IN",
+      "city": "Unknown",
+      "connection_count": 16553
+    },
+    {
+      "latitude": 41.0214,
+      "longitude": 28.9948,
+      "country": "TR",
+      "city": "Unknown",
+      "connection_count": 15102
+    },
+    {
+      "latitude": 36.7405,
+      "longitude": 3.1159,
+      "country": "DZ",
+      "city": "Algiers",
+      "connection_count": 14753
+    },
+    {
+      "latitude": 53.3981,
+      "longitude": 59.0066,
+      "country": "RU",
+      "city": "Magnitogorsk",
+      "connection_count": 14730
+    },
+    {
+      "latitude": 45.75,
+      "longitude": 126.65,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 14683
+    },
+    {
+      "latitude": -22.9434,
+      "longitude": -46.5581,
+      "country": "BR",
+      "city": "Bragança Paulista",
+      "connection_count": 14598
+    },
+    {
+      "latitude": -2.2038,
+      "longitude": -79.8819,
+      "country": "EC",
+      "city": "Guayaquil",
+      "connection_count": 14588
+    },
+    {
+      "latitude": 41.8835,
+      "longitude": -87.6305,
+      "country": "US",
+      "city": "Chicago",
+      "connection_count": 14483
+    },
+    {
+      "latitude": 23.7018,
+      "longitude": 90.3742,
+      "country": "BD",
+      "city": "Unknown",
+      "connection_count": 14474
+    },
+    {
+      "latitude": 50.4777,
+      "longitude": 12.3649,
+      "country": "DE",
+      "city": "Falkenstein",
+      "connection_count": 14337
+    },
+    {
+      "latitude": 37.3388,
+      "longitude": -121.8916,
+      "country": "US",
+      "city": "San Jose",
+      "connection_count": 14226
+    },
+    {
+      "latitude": 48.0476,
+      "longitude": 30.8537,
+      "country": "UA",
+      "city": "Pervomaisk",
+      "connection_count": 14195
+    },
+    {
+      "latitude": 36.096,
+      "longitude": 114.3828,
+      "country": "CN",
+      "city": "Anyang",
+      "connection_count": 13850
+    },
+    {
+      "latitude": 22.2825,
+      "longitude": 113.5763,
+      "country": "CN",
+      "city": "Zhuhai",
+      "connection_count": 13837
+    },
+    {
+      "latitude": 36.0647,
+      "longitude": 103.8397,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 13609
+    },
+    {
+      "latitude": 53.362,
+      "longitude": 83.7279,
+      "country": "RU",
+      "city": "Barnaul",
+      "connection_count": 13499
+    },
+    {
+      "latitude": 22.5847,
+      "longitude": 113.0807,
+      "country": "CN",
+      "city": "Jiangmen",
+      "connection_count": 13347
+    },
+    {
+      "latitude": 34.6735,
+      "longitude": 112.4368,
+      "country": "CN",
+      "city": "Luoyang",
+      "connection_count": 13233
+    },
+    {
+      "latitude": 40.7876,
+      "longitude": -74.06,
+      "country": "US",
+      "city": "Secaucus",
+      "connection_count": 13102
+    },
+    {
+      "latitude": 52.2984,
+      "longitude": 104.2903,
+      "country": "RU",
+      "city": "Irkutsk",
+      "connection_count": 12739
+    },
+    {
+      "latitude": 22.8111,
+      "longitude": 108.3168,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 12693
+    },
+    {
+      "latitude": 38.8729,
+      "longitude": 115.4625,
+      "country": "CN",
+      "city": "Baoding",
+      "connection_count": 12460
+    },
+    {
+      "latitude": 23.1115,
+      "longitude": 114.4152,
+      "country": "CN",
+      "city": "Huizhou",
+      "connection_count": 12420
+    },
+    {
+      "latitude": 40.7516,
+      "longitude": 120.8315,
+      "country": "CN",
+      "city": "Huludao",
+      "connection_count": 12385
+    },
+    {
+      "latitude": 44.7824,
+      "longitude": 44.1606,
+      "country": "RU",
+      "city": "Budyonnovsk",
+      "connection_count": 12364
+    },
+    {
+      "latitude": 21.4913,
+      "longitude": 39.1841,
+      "country": "SA",
+      "city": "Jeddah",
+      "connection_count": 12355
+    },
+    {
+      "latitude": 1.2872,
+      "longitude": 103.8507,
+      "country": "SG",
+      "city": "Singapore",
+      "connection_count": 12336
+    },
+    {
+      "latitude": 61.1092,
+      "longitude": 72.6131,
+      "country": "RU",
+      "city": "Nefteyugansk",
+      "connection_count": 12098
+    },
+    {
+      "latitude": 37.8648,
+      "longitude": 112.5636,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 12098
+    },
+    {
+      "latitude": 20.0342,
+      "longitude": 110.3465,
+      "country": "CN",
+      "city": "Haikou",
+      "connection_count": 11817
+    },
+    {
+      "latitude": 55.0386,
+      "longitude": 82.9425,
+      "country": "RU",
+      "city": "Novosibirsk",
+      "connection_count": 11795
+    },
+    {
+      "latitude": 55.572,
+      "longitude": 38.2244,
+      "country": "RU",
+      "city": "Ramenskoye",
+      "connection_count": 11783
+    },
+    {
+      "latitude": 14.0828,
+      "longitude": -87.2041,
+      "country": "HN",
+      "city": "Tegucigalpa",
+      "connection_count": 11775
+    },
+    {
+      "latitude": 43.1068,
+      "longitude": 131.8692,
+      "country": "RU",
+      "city": "Vladivostok",
+      "connection_count": 11671
+    },
+    {
+      "latitude": 47.22,
+      "longitude": 39.7077,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 11661
+    },
+    {
+      "latitude": 36.6694,
+      "longitude": -78.3877,
+      "country": "US",
+      "city": "Boydton",
+      "connection_count": 11639
+    },
+    {
+      "latitude": 52.6958,
+      "longitude": 6.1956,
+      "country": "NL",
+      "city": "Meppel",
+      "connection_count": 11554
+    },
+    {
+      "latitude": 40.7291,
+      "longitude": 17.5793,
+      "country": "IT",
+      "city": "Ostuni",
+      "connection_count": 11539
+    },
+    {
+      "latitude": 25.3412,
+      "longitude": 55.4224,
+      "country": "AE",
+      "city": "Sharjah",
+      "connection_count": 11534
+    },
+    {
+      "latitude": 30.187,
+      "longitude": 66.9923,
+      "country": "PK",
+      "city": "Quetta",
+      "connection_count": 11224
+    },
+    {
+      "latitude": 30.0507,
+      "longitude": 31.2489,
+      "country": "EG",
+      "city": "Cairo",
+      "connection_count": 11183
+    },
+    {
+      "latitude": 57.8149,
+      "longitude": 28.3284,
+      "country": "RU",
+      "city": "Pskov",
+      "connection_count": 11143
+    },
+    {
+      "latitude": 29.3187,
+      "longitude": 120.081,
+      "country": "CN",
+      "city": "Yiwu",
+      "connection_count": 11000
+    },
+    {
+      "latitude": 31.9555,
+      "longitude": 35.9435,
+      "country": "JO",
+      "city": "Amman",
+      "connection_count": 10935
+    },
+    {
+      "latitude": 39.75,
+      "longitude": 59.6667,
+      "country": "TM",
+      "city": "Unknown",
+      "connection_count": 10830
+    },
+    {
+      "latitude": 33,
+      "longitude": 44,
+      "country": "IQ",
+      "city": "Unknown",
+      "connection_count": 10769
+    },
+    {
+      "latitude": 22.2578,
+      "longitude": 114.1657,
+      "country": "HK",
+      "city": "Unknown",
+      "connection_count": 10647
+    },
+    {
+      "latitude": 10.1615,
+      "longitude": -68.0004,
+      "country": "VE",
+      "city": "Valencia",
+      "connection_count": 10570
+    },
+    {
+      "latitude": 62.0313,
+      "longitude": 129.7325,
+      "country": "RU",
+      "city": "Yakutsk",
+      "connection_count": 10471
+    },
+    {
+      "latitude": 51.2993,
+      "longitude": 9.491,
+      "country": "DE",
+      "city": "Unknown",
+      "connection_count": 10280
+    },
+    {
+      "latitude": 36.1898,
+      "longitude": 44.0157,
+      "country": "IQ",
+      "city": "Erbil",
+      "connection_count": 10252
+    },
+    {
+      "latitude": 17.9641,
+      "longitude": 102.5987,
+      "country": "LA",
+      "city": "Vientiane",
+      "connection_count": 10181
+    },
+    {
+      "latitude": 43.3103,
+      "longitude": 45.6909,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 10129
+    },
+    {
+      "latitude": 10.6423,
+      "longitude": -71.6109,
+      "country": "VE",
+      "city": "Maracaibo",
+      "connection_count": 10083
+    },
+    {
+      "latitude": 21.9974,
+      "longitude": 79.0011,
+      "country": "IN",
+      "city": "Unknown",
+      "connection_count": 10056
+    },
+    {
+      "latitude": 37.8648,
+      "longitude": 112.5636,
+      "country": "CN",
+      "city": "Taiyuan",
+      "connection_count": 10035
+    },
+    {
+      "latitude": 51.5081,
+      "longitude": -0.1278,
+      "country": "GB",
+      "city": "London",
+      "connection_count": 9850
+    },
+    {
+      "latitude": 37.751,
+      "longitude": -97.822,
+      "country": "US",
+      "city": "Unknown",
+      "connection_count": 9835
+    },
+    {
+      "latitude": 54.9213,
+      "longitude": 37.4217,
+      "country": "RU",
+      "city": "Serpukhov",
+      "connection_count": 9796
+    },
+    {
+      "latitude": 31.8636,
+      "longitude": 121.798,
+      "country": "CN",
+      "city": "Xiangyang",
+      "connection_count": 9586
+    },
+    {
+      "latitude": 56.0998,
+      "longitude": 43.5133,
+      "country": "RU",
+      "city": "Bogorodsk",
+      "connection_count": 9529
+    },
+    {
+      "latitude": 38.1302,
+      "longitude": 13.329,
+      "country": "IT",
+      "city": "Palermo",
+      "connection_count": 9441
+    },
+    {
+      "latitude": 24.4793,
+      "longitude": 118.0673,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 9426
+    },
+    {
+      "latitude": 30.7488,
+      "longitude": 120.7486,
+      "country": "CN",
+      "city": "Jiaxing",
+      "connection_count": 9397
+    },
+    {
+      "latitude": 31.9105,
+      "longitude": 120.2634,
+      "country": "CN",
+      "city": "Jiangyin",
+      "connection_count": 9376
+    },
+    {
+      "latitude": 56.3327,
+      "longitude": 44.0012,
+      "country": "RU",
+      "city": "Nizhniy Novgorod",
+      "connection_count": 9341
+    },
+    {
+      "latitude": 54.7065,
+      "longitude": 20.511,
+      "country": "RU",
+      "city": "Kaliningrad",
+      "connection_count": 9330
+    },
+    {
+      "latitude": 45.9968,
+      "longitude": 24.997,
+      "country": "RO",
+      "city": "Unknown",
+      "connection_count": 9326
+    },
+    {
+      "latitude": 69.3572,
+      "longitude": 88.2155,
+      "country": "RU",
+      "city": "Noril'sk",
+      "connection_count": 9239
+    },
+    {
+      "latitude": 59.9417,
+      "longitude": 30.3096,
+      "country": "RU",
+      "city": "St Petersburg",
+      "connection_count": 9222
+    },
+    {
+      "latitude": 45.526,
+      "longitude": -122.9874,
+      "country": "US",
+      "city": "Hillsboro",
+      "connection_count": 9120
+    },
+    {
+      "latitude": 32.0211,
+      "longitude": 44.3412,
+      "country": "IQ",
+      "city": "Najaf",
+      "connection_count": 9070
+    },
+    {
+      "latitude": 55.3461,
+      "longitude": 59.7025,
+      "country": "RU",
+      "city": "Magnitka",
+      "connection_count": 8967
+    },
+    {
+      "latitude": 58.5178,
+      "longitude": 31.2794,
+      "country": "RU",
+      "city": "Veliky Novgorod",
+      "connection_count": 8838
+    },
+    {
+      "latitude": 36.8409,
+      "longitude": 54.4368,
+      "country": "IR",
+      "city": "Gorgan",
+      "connection_count": 8723
+    },
+    {
+      "latitude": 33.6375,
+      "longitude": 116.9775,
+      "country": "CN",
+      "city": "Suzhou",
+      "connection_count": 8546
+    },
+    {
+      "latitude": 30.0034,
+      "longitude": 120.5676,
+      "country": "CN",
+      "city": "Shaoxing",
+      "connection_count": 8520
+    },
+    {
+      "latitude": -6.827,
+      "longitude": 39.2675,
+      "country": "TZ",
+      "city": "Dar es Salaam",
+      "connection_count": 8496
+    },
+    {
+      "latitude": -1.2841,
+      "longitude": 36.8155,
+      "country": "KE",
+      "city": "Nairobi",
+      "connection_count": 8494
+    },
+    {
+      "latitude": 22.9592,
+      "longitude": 108.9667,
+      "country": "CN",
+      "city": "Naningcun",
+      "connection_count": 8436
+    },
+    {
+      "latitude": 52.3824,
+      "longitude": 4.8995,
+      "country": "NL",
+      "city": "Unknown",
+      "connection_count": 8400
+    },
+    {
+      "latitude": -8.6032,
+      "longitude": 115.1909,
+      "country": "ID",
+      "city": "Denpasar",
+      "connection_count": 8357
+    },
+    {
+      "latitude": 22.2842,
+      "longitude": 114.1759,
+      "country": "HK",
+      "city": "Hong Kong",
+      "connection_count": 8351
+    },
+    {
+      "latitude": 51.6683,
+      "longitude": 39.192,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 8308
+    },
+    {
+      "latitude": 55.9165,
+      "longitude": 59.9982,
+      "country": "RU",
+      "city": "Nizhniy Ufaley",
+      "connection_count": 8287
+    },
+    {
+      "latitude": 36.6814,
+      "longitude": 48.4924,
+      "country": "IR",
+      "city": "Zanjan",
+      "connection_count": 8216
+    },
+    {
+      "latitude": 48.9171,
+      "longitude": 24.7158,
+      "country": "UA",
+      "city": "Ivano-Frankivsk",
+      "connection_count": 8201
+    },
+    {
+      "latitude": 30.9478,
+      "longitude": 117.7873,
+      "country": "CN",
+      "city": "Tongling",
+      "connection_count": 8157
+    },
+    {
+      "latitude": 34.4323,
+      "longitude": 70.4518,
+      "country": "AF",
+      "city": "Jalalabad",
+      "connection_count": 7981
+    },
+    {
+      "latitude": 30.2982,
+      "longitude": 109.4785,
+      "country": "CN",
+      "city": "Enshi",
+      "connection_count": 7901
+    },
+    {
+      "latitude": 50.1899,
+      "longitude": 30.3141,
+      "country": "UA",
+      "city": "Vasylkiv",
+      "connection_count": 7844
+    },
+    {
+      "latitude": 46.8468,
+      "longitude": 35.3757,
+      "country": "UA",
+      "city": "Melitopol",
+      "connection_count": 7823
+    },
+    {
+      "latitude": 1.3667,
+      "longitude": 103.8,
+      "country": "SG",
+      "city": "Unknown",
+      "connection_count": 7820
+    },
+    {
+      "latitude": 30.6086,
+      "longitude": 31.2957,
+      "country": "EG",
+      "city": "Kafr ash Shaykh Hilāl",
+      "connection_count": 7707
+    },
+    {
+      "latitude": 37.4765,
+      "longitude": 121.4408,
+      "country": "CN",
+      "city": "Yantai",
+      "connection_count": 7700
+    },
+    {
+      "latitude": 47.0188,
+      "longitude": 28.8128,
+      "country": "MD",
+      "city": "Unknown",
+      "connection_count": 7626
+    },
+    {
+      "latitude": 48.7168,
+      "longitude": 44.5035,
+      "country": "RU",
+      "city": "Volgograd",
+      "connection_count": 7550
+    },
+    {
+      "latitude": 1,
+      "longitude": 38,
+      "country": "KE",
+      "city": "Unknown",
+      "connection_count": 7476
+    },
+    {
+      "latitude": -6.2114,
+      "longitude": 106.8446,
+      "country": "ID",
+      "city": "Jakarta",
+      "connection_count": 7452
+    },
+    {
+      "latitude": 32.2147,
+      "longitude": 119.4544,
+      "country": "CN",
+      "city": "Zhenjiang",
+      "connection_count": 7402
+    },
+    {
+      "latitude": 10.0664,
+      "longitude": -69.3586,
+      "country": "VE",
+      "city": "Barquisimeto",
+      "connection_count": 7297
+    },
+    {
+      "latitude": 30.9146,
+      "longitude": 75.8543,
+      "country": "IN",
+      "city": "Ludhiana",
+      "connection_count": 7225
+    },
+    {
+      "latitude": 7.768,
+      "longitude": -72.244,
+      "country": "VE",
+      "city": "San Cristóbal",
+      "connection_count": 7199
+    },
+    {
+      "latitude": 52.3744,
+      "longitude": 4.9388,
+      "country": "NL",
+      "city": "Amsterdam",
+      "connection_count": 7182
+    },
+    {
+      "latitude": 20.0342,
+      "longitude": 110.3465,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 7133
+    },
+    {
+      "latitude": 33.4532,
+      "longitude": -112.0748,
+      "country": "US",
+      "city": "Phoenix",
+      "connection_count": 7118
+    },
+    {
+      "latitude": 31.4166,
+      "longitude": 31.8105,
+      "country": "EG",
+      "city": "Damietta",
+      "connection_count": 7099
+    },
+    {
+      "latitude": 36.1847,
+      "longitude": 117.1184,
+      "country": "CN",
+      "city": "Tai'an",
+      "connection_count": 6994
+    },
+    {
+      "latitude": 53.7575,
+      "longitude": 87.136,
+      "country": "RU",
+      "city": "Novokuznetsk",
+      "connection_count": 6990
+    },
+    {
+      "latitude": 44.9607,
+      "longitude": 34.1051,
+      "country": "UA",
+      "city": "Unknown",
+      "connection_count": 6938
+    },
+    {
+      "latitude": 28.6796,
+      "longitude": 115.8655,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 6930
+    },
+    {
+      "latitude": 41.2886,
+      "longitude": 123.765,
+      "country": "CN",
+      "city": "Benxi",
+      "connection_count": 6917
+    },
+    {
+      "latitude": 31.2054,
+      "longitude": 29.9169,
+      "country": "EG",
+      "city": "Alexandria",
+      "connection_count": 6895
+    },
+    {
+      "latitude": 56.3587,
+      "longitude": 41.3249,
+      "country": "RU",
+      "city": "Kovrov",
+      "connection_count": 6864
+    },
+    {
+      "latitude": 26.891,
+      "longitude": 112.6145,
+      "country": "CN",
+      "city": "Hengyang",
+      "connection_count": 6799
+    },
+    {
+      "latitude": 54.7816,
+      "longitude": 32.0455,
+      "country": "RU",
+      "city": "Smolensk",
+      "connection_count": 6742
+    },
+    {
+      "latitude": 44.6089,
+      "longitude": 33.53,
+      "country": "UA",
+      "city": "Sevastopol",
+      "connection_count": 6620
+    },
+    {
+      "latitude": 24.0017,
+      "longitude": 90.4243,
+      "country": "BD",
+      "city": "Dhaka",
+      "connection_count": 6600
+    },
+    {
+      "latitude": 50.2705,
+      "longitude": 127.5352,
+      "country": "RU",
+      "city": "Blagoveshchensk",
+      "connection_count": 6568
+    },
+    {
+      "latitude": 25.4845,
+      "longitude": 103.7871,
+      "country": "CN",
+      "city": "Qujing",
+      "connection_count": 6560
+    },
+    {
+      "latitude": 30.2943,
+      "longitude": 120.1663,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 6549
+    },
+    {
+      "latitude": 52.0901,
+      "longitude": 23.6836,
+      "country": "BY",
+      "city": "Brest",
+      "connection_count": 6534
+    },
+    {
+      "latitude": -19.8828,
+      "longitude": -44.0801,
+      "country": "BR",
+      "city": "Contagem",
+      "connection_count": 6458
+    },
+    {
+      "latitude": 46.5851,
+      "longitude": 125.0044,
+      "country": "CN",
+      "city": "Daqing",
+      "connection_count": 6423
+    },
+    {
+      "latitude": 37.5392,
+      "longitude": 126.8605,
+      "country": "KR",
+      "city": "Seoul",
+      "connection_count": 6406
+    },
+    {
+      "latitude": 42.6826,
+      "longitude": 23.3223,
+      "country": "BG",
+      "city": "Sofia",
+      "connection_count": 6391
+    },
+    {
+      "latitude": 55.4167,
+      "longitude": 24,
+      "country": "LT",
+      "city": "Unknown",
+      "connection_count": 6360
+    },
+    {
+      "latitude": 24.9239,
+      "longitude": 67.1423,
+      "country": "PK",
+      "city": "Karachi",
+      "connection_count": 6323
+    },
+    {
+      "latitude": 50.0188,
+      "longitude": 8.6956,
+      "country": "DE",
+      "city": "Dreieich",
+      "connection_count": 6168
+    },
+    {
+      "latitude": 43.2472,
+      "longitude": 46.5898,
+      "country": "RU",
+      "city": "Khasavyurt",
+      "connection_count": 6096
+    },
+    {
+      "latitude": 35,
+      "longitude": 33,
+      "country": "CY",
+      "city": "Unknown",
+      "connection_count": 5946
+    },
+    {
+      "latitude": 53.7575,
+      "longitude": 87.136,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 5944
+    },
+    {
+      "latitude": 59.3287,
+      "longitude": 18.0717,
+      "country": "SE",
+      "city": "Stockholm",
+      "connection_count": 5927
+    },
+    {
+      "latitude": 38.7095,
+      "longitude": -78.1539,
+      "country": "US",
+      "city": "Washington",
+      "connection_count": 5910
+    },
+    {
+      "latitude": 26.58,
+      "longitude": 106.7223,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 5866
+    },
+    {
+      "latitude": 26.5578,
+      "longitude": 54.0239,
+      "country": "IR",
+      "city": "Kīsh",
+      "connection_count": 5844
+    },
+    {
+      "latitude": 36.5978,
+      "longitude": -121.6756,
+      "country": "US",
+      "city": "Salinas",
+      "connection_count": 5793
+    },
+    {
+      "latitude": 33.4656,
+      "longitude": -111.9956,
+      "country": "US",
+      "city": "Phoenix",
+      "connection_count": 5739
+    },
+    {
+      "latitude": 57.0006,
+      "longitude": 40.972,
+      "country": "RU",
+      "city": "Ivanovo",
+      "connection_count": 5731
+    },
+    {
+      "latitude": 32.4633,
+      "longitude": 44.4179,
+      "country": "IQ",
+      "city": "Al Hillah",
+      "connection_count": 5701
+    },
+    {
+      "latitude": 55.4501,
+      "longitude": 37.7467,
+      "country": "RU",
+      "city": "Domodedovo",
+      "connection_count": 5666
+    },
+    {
+      "latitude": 52.3109,
+      "longitude": 4.9453,
+      "country": "NL",
+      "city": "Amsterdam",
+      "connection_count": 5603
+    },
+    {
+      "latitude": 36.71,
+      "longitude": 119.1038,
+      "country": "CN",
+      "city": "Weifang",
+      "connection_count": 5584
+    },
+    {
+      "latitude": 26.1885,
+      "longitude": 91.7392,
+      "country": "IN",
+      "city": "Guwahati",
+      "connection_count": 5517
+    },
+    {
+      "latitude": 41.1437,
+      "longitude": -104.8117,
+      "country": "US",
+      "city": "Cheyenne",
+      "connection_count": 5509
+    },
+    {
+      "latitude": 41.6015,
+      "longitude": -93.6127,
+      "country": "US",
+      "city": "Des Moines",
+      "connection_count": 5503
+    },
+    {
+      "latitude": 51.9968,
+      "longitude": 4.2057,
+      "country": "NL",
+      "city": "Naaldwijk",
+      "connection_count": 5428
+    },
+    {
+      "latitude": 31.0356,
+      "longitude": 112.2088,
+      "country": "CN",
+      "city": "Jingmen",
+      "connection_count": 5402
+    },
+    {
+      "latitude": 54.7431,
+      "longitude": 55.9678,
+      "country": "RU",
+      "city": "Ufa",
+      "connection_count": 5365
+    },
+    {
+      "latitude": 32.8908,
+      "longitude": 13.1796,
+      "country": "LY",
+      "city": "Tripoli",
+      "connection_count": 5331
+    },
+    {
+      "latitude": 32.0264,
+      "longitude": 120.8647,
+      "country": "CN",
+      "city": "Nantong",
+      "connection_count": 5111
+    },
+    {
+      "latitude": 9.7477,
+      "longitude": -63.1819,
+      "country": "VE",
+      "city": "Maturín",
+      "connection_count": 5101
+    },
+    {
+      "latitude": 32.9879,
+      "longitude": 112.5376,
+      "country": "CN",
+      "city": "Nanyang",
+      "connection_count": 5089
+    },
+    {
+      "latitude": 37.7391,
+      "longitude": 115.6835,
+      "country": "CN",
+      "city": "Hengshui",
+      "connection_count": 5086
+    },
+    {
+      "latitude": 42.8864,
+      "longitude": -78.8784,
+      "country": "US",
+      "city": "Buffalo",
+      "connection_count": 5085
+    },
+    {
+      "latitude": 28.9703,
+      "longitude": 50.8415,
+      "country": "IR",
+      "city": "Bushehr",
+      "connection_count": 5039
+    },
+    {
+      "latitude": 23.75,
+      "longitude": 54.5,
+      "country": "AE",
+      "city": "Unknown",
+      "connection_count": 4885
+    },
+    {
+      "latitude": 52.3803,
+      "longitude": 4.6422,
+      "country": "NL",
+      "city": "Haarlem",
+      "connection_count": 4867
+    },
+    {
+      "latitude": 54.6061,
+      "longitude": 52.4577,
+      "country": "RU",
+      "city": "Leninogorsk",
+      "connection_count": 4850
+    },
+    {
+      "latitude": -1.2508,
+      "longitude": 116.8137,
+      "country": "ID",
+      "city": "Balikpapan",
+      "connection_count": 4821
+    },
+    {
+      "latitude": 48.4604,
+      "longitude": 35.033,
+      "country": "UA",
+      "city": "Dnipro",
+      "connection_count": 4814
+    },
+    {
+      "latitude": 60.7475,
+      "longitude": 72.8622,
+      "country": "RU",
+      "city": "Pyt-Yakh",
+      "connection_count": 4785
+    },
+    {
+      "latitude": 1.314,
+      "longitude": 103.6839,
+      "country": "SG",
+      "city": "Singapore",
+      "connection_count": 4704
+    },
+    {
+      "latitude": 10.4866,
+      "longitude": -66.7678,
+      "country": "VE",
+      "city": "Miranda",
+      "connection_count": 4703
+    },
+    {
+      "latitude": 55.3889,
+      "longitude": 36.7383,
+      "country": "RU",
+      "city": "Naro-Fominsk",
+      "connection_count": 4623
+    },
+    {
+      "latitude": -27.4644,
+      "longitude": 153.0531,
+      "country": "AU",
+      "city": "Brisbane",
+      "connection_count": 4609
+    },
+    {
+      "latitude": 52.0339,
+      "longitude": 113.5014,
+      "country": "RU",
+      "city": "Chita",
+      "connection_count": 4604
+    },
+    {
+      "latitude": 55.3299,
+      "longitude": 86.0765,
+      "country": "RU",
+      "city": "Kemerovo",
+      "connection_count": 4529
+    },
+    {
+      "latitude": 30.9269,
+      "longitude": 113.9222,
+      "country": "CN",
+      "city": "Xiaogan",
+      "connection_count": 4494
+    },
+    {
+      "latitude": -20.1088,
+      "longitude": -40.3022,
+      "country": "BR",
+      "city": "Serra",
+      "connection_count": 4478
+    },
+    {
+      "latitude": 35.6893,
+      "longitude": 139.6899,
+      "country": "JP",
+      "city": "Tokyo",
+      "connection_count": 4476
+    },
+    {
+      "latitude": 37.2379,
+      "longitude": -121.7946,
+      "country": "US",
+      "city": "San Jose",
+      "connection_count": 4467
+    },
+    {
+      "latitude": 12.9753,
+      "longitude": 77.591,
+      "country": "IN",
+      "city": "Bengaluru",
+      "connection_count": 4455
+    },
+    {
+      "latitude": 34.1794,
+      "longitude": 117.1612,
+      "country": "CN",
+      "city": "Xuzhou",
+      "connection_count": 4310
+    },
+    {
+      "latitude": 21.423,
+      "longitude": 39.821,
+      "country": "SA",
+      "city": "Makkah",
+      "connection_count": 4283
+    },
+    {
+      "latitude": 32.7797,
+      "longitude": -96.8022,
+      "country": "US",
+      "city": "Dallas",
+      "connection_count": 4269
+    },
+    {
+      "latitude": 32.0112,
+      "longitude": 120.2612,
+      "country": "CN",
+      "city": "Jingjiang",
+      "connection_count": 4247
+    },
+    {
+      "latitude": 66.6551,
+      "longitude": 66.4269,
+      "country": "RU",
+      "city": "Labytnangi",
+      "connection_count": 4229
+    },
+    {
+      "latitude": 55.785,
+      "longitude": 49.1178,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 4222
+    },
+    {
+      "latitude": 52.2394,
+      "longitude": 21.0362,
+      "country": "PL",
+      "city": "Unknown",
+      "connection_count": 4206
+    },
+    {
+      "latitude": 51.8215,
+      "longitude": 107.6145,
+      "country": "RU",
+      "city": "Ulan-Ude",
+      "connection_count": 4200
+    },
+    {
+      "latitude": 33.8333,
+      "longitude": 35.8333,
+      "country": "LB",
+      "city": "Unknown",
+      "connection_count": 4135
+    },
+    {
+      "latitude": 23.3467,
+      "longitude": 116.6817,
+      "country": "CN",
+      "city": "Shantou",
+      "connection_count": 4130
+    },
+    {
+      "latitude": 43.3058,
+      "longitude": 45.6995,
+      "country": "RU",
+      "city": "Grozny",
+      "connection_count": 4128
+    },
+    {
+      "latitude": 34.8644,
+      "longitude": 117.5527,
+      "country": "CN",
+      "city": "Zaozhuang",
+      "connection_count": 4109
+    },
+    {
+      "latitude": 23.7005,
+      "longitude": 113.0365,
+      "country": "CN",
+      "city": "Qingyuan",
+      "connection_count": 4105
+    },
+    {
+      "latitude": 36.4469,
+      "longitude": 116.0042,
+      "country": "CN",
+      "city": "Liaocheng",
+      "connection_count": 4079
+    },
+    {
+      "latitude": 55.8015,
+      "longitude": 37.9465,
+      "country": "RU",
+      "city": "Balashikha",
+      "connection_count": 4054
+    },
+    {
+      "latitude": 43.0357,
+      "longitude": 44.6721,
+      "country": "RU",
+      "city": "Vladikavkaz",
+      "connection_count": 4048
+    },
+    {
+      "latitude": 45.1081,
+      "longitude": 38.9427,
+      "country": "RU",
+      "city": "Krasnodar",
+      "connection_count": 4038
+    },
+    {
+      "latitude": 32.3216,
+      "longitude": 118.2933,
+      "country": "CN",
+      "city": "Chuzhou",
+      "connection_count": 4025
+    },
+    {
+      "latitude": 52.2299,
+      "longitude": 21.0093,
+      "country": "PL",
+      "city": "Warsaw",
+      "connection_count": 4019
+    },
+    {
+      "latitude": 28.5694,
+      "longitude": 112.3473,
+      "country": "CN",
+      "city": "Heshan",
+      "connection_count": 3980
+    },
+    {
+      "latitude": 59.3247,
+      "longitude": 18.056,
+      "country": "SE",
+      "city": "Unknown",
+      "connection_count": 3911
+    },
+    {
+      "latitude": 41.7806,
+      "longitude": 123.4314,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 3906
+    },
+    {
+      "latitude": 3.1071,
+      "longitude": 101.6139,
+      "country": "MY",
+      "city": "Petaling Jaya",
+      "connection_count": 3866
+    },
+    {
+      "latitude": 43.5997,
+      "longitude": 39.7293,
+      "country": "RU",
+      "city": "Sochi",
+      "connection_count": 3838
+    },
+    {
+      "latitude": 34.0273,
+      "longitude": 112.9965,
+      "country": "CN",
+      "city": "Luzhaicun",
+      "connection_count": 3831
+    },
+    {
+      "latitude": 3.1408,
+      "longitude": 101.6852,
+      "country": "MY",
+      "city": "Kuala Lumpur",
+      "connection_count": 3782
+    },
+    {
+      "latitude": 30.176,
+      "longitude": 121.241,
+      "country": "CN",
+      "city": "Cixi",
+      "connection_count": 3775
+    },
+    {
+      "latitude": 37.8897,
+      "longitude": 127.736,
+      "country": "KR",
+      "city": "Chuncheon",
+      "connection_count": 3756
+    },
+    {
+      "latitude": 31.8696,
+      "longitude": 117.293,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 3700
+    },
+    {
+      "latitude": 67.5722,
+      "longitude": 33.4162,
+      "country": "RU",
+      "city": "Apatity",
+      "connection_count": 3685
+    },
+    {
+      "latitude": 35.1874,
+      "longitude": 113.8025,
+      "country": "CN",
+      "city": "Xinxiang",
+      "connection_count": 3661
+    },
+    {
+      "latitude": 41.0329,
+      "longitude": 28.9529,
+      "country": "TR",
+      "city": "Istanbul",
+      "connection_count": 3655
+    },
+    {
+      "latitude": 55.9606,
+      "longitude": 38.0456,
+      "country": "RU",
+      "city": "Fryazino",
+      "connection_count": 3648
+    },
+    {
+      "latitude": 34.0515,
+      "longitude": -118.2707,
+      "country": "US",
+      "city": "Los Angeles",
+      "connection_count": 3603
+    },
+    {
+      "latitude": 28.6637,
+      "longitude": 121.429,
+      "country": "CN",
+      "city": "Taizhou",
+      "connection_count": 3553
+    },
+    {
+      "latitude": -7.2826,
+      "longitude": 112.7469,
+      "country": "ID",
+      "city": "Surabaya",
+      "connection_count": 3548
+    },
+    {
+      "latitude": 44.05,
+      "longitude": 43.0504,
+      "country": "RU",
+      "city": "Pyatigorsk",
+      "connection_count": 3544
+    },
+    {
+      "latitude": 36.0647,
+      "longitude": 103.8397,
+      "country": "CN",
+      "city": "Lanzhou",
+      "connection_count": 3475
+    },
+    {
+      "latitude": 26.9136,
+      "longitude": 75.7858,
+      "country": "IN",
+      "city": "Jaipur",
+      "connection_count": 3467
+    },
+    {
+      "latitude": 26.3568,
+      "longitude": 91.7007,
+      "country": "IN",
+      "city": "Bāihāta",
+      "connection_count": 3464
+    },
+    {
+      "latitude": 54.6296,
+      "longitude": 39.6881,
+      "country": "RU",
+      "city": "Ryazan",
+      "connection_count": 3443
+    },
+    {
+      "latitude": 36.6514,
+      "longitude": 3.3288,
+      "country": "DZ",
+      "city": "Khemis el Khechna",
+      "connection_count": 3434
+    },
+    {
+      "latitude": 16.0965,
+      "longitude": 97.8988,
+      "country": "MM",
+      "city": "Kha Lel",
+      "connection_count": 3387
+    },
+    {
+      "latitude": -0.2309,
+      "longitude": -78.5211,
+      "country": "EC",
+      "city": "Quito",
+      "connection_count": 3370
+    },
+    {
+      "latitude": 23.654,
+      "longitude": 116.6226,
+      "country": "CN",
+      "city": "Chaozhou",
+      "connection_count": 3357
+    },
+    {
+      "latitude": 54.2047,
+      "longitude": 37.6096,
+      "country": "RU",
+      "city": "Tula",
+      "connection_count": 3329
+    },
+    {
+      "latitude": 44.5014,
+      "longitude": 34.1614,
+      "country": "UA",
+      "city": "Yalta",
+      "connection_count": 3320
+    },
+    {
+      "latitude": 29.8435,
+      "longitude": 114.3202,
+      "country": "CN",
+      "city": "Xianning",
+      "connection_count": 3318
+    },
+    {
+      "latitude": 51.7675,
+      "longitude": 55.0977,
+      "country": "RU",
+      "city": "Orenburg",
+      "connection_count": 3310
+    },
+    {
+      "latitude": 1.2939,
+      "longitude": 103.8461,
+      "country": "SG",
+      "city": "Singapore",
+      "connection_count": 3292
+    },
+    {
+      "latitude": 49.4423,
+      "longitude": 11.0191,
+      "country": "DE",
+      "city": "Nuremberg",
+      "connection_count": 3281
+    },
+    {
+      "latitude": 22.7785,
+      "longitude": 115.3452,
+      "country": "CN",
+      "city": "Shanwei",
+      "connection_count": 3245
+    },
+    {
+      "latitude": 36.7849,
+      "longitude": 119.9384,
+      "country": "CN",
+      "city": "Pingdu",
+      "connection_count": 3221
+    },
+    {
+      "latitude": 56.8565,
+      "longitude": 40.5346,
+      "country": "RU",
+      "city": "Teykovo",
+      "connection_count": 3217
+    },
+    {
+      "latitude": 39.911,
+      "longitude": 116.395,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 3212
+    },
+    {
+      "latitude": 55.6404,
+      "longitude": 51.8175,
+      "country": "RU",
+      "city": "Nizhnekamsk",
+      "connection_count": 3204
+    },
+    {
+      "latitude": 59.6493,
+      "longitude": 33.5191,
+      "country": "RU",
+      "city": "Tikhvin",
+      "connection_count": 3165
+    },
+    {
+      "latitude": -6.2257,
+      "longitude": 106.8268,
+      "country": "ID",
+      "city": "Jakarta",
+      "connection_count": 3158
+    },
+    {
+      "latitude": 39.0469,
+      "longitude": -77.4903,
+      "country": "US",
+      "city": "Ashburn",
+      "connection_count": 3154
+    },
+    {
+      "latitude": 50.1162,
+      "longitude": 8.6693,
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "connection_count": 3128
+    },
+    {
+      "latitude": 39.6333,
+      "longitude": 118.1852,
+      "country": "CN",
+      "city": "Tangshan",
+      "connection_count": 3095
+    },
+    {
+      "latitude": 55.0226,
+      "longitude": 82.9317,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 3055
+    },
+    {
+      "latitude": 57.1533,
+      "longitude": 65.5418,
+      "country": "RU",
+      "city": "Tyumen",
+      "connection_count": 3035
+    },
+    {
+      "latitude": 2.9283,
+      "longitude": 101.6511,
+      "country": "MY",
+      "city": "Cyberjaya",
+      "connection_count": 3011
+    },
+    {
+      "latitude": 3.4385,
+      "longitude": -76.523,
+      "country": "CO",
+      "city": "Cali",
+      "connection_count": 2998
+    },
+    {
+      "latitude": 52.352,
+      "longitude": 4.9392,
+      "country": "NL",
+      "city": "Amsterdam",
+      "connection_count": 2981
+    },
+    {
+      "latitude": 30.6618,
+      "longitude": 70.5625,
+      "country": "PK",
+      "city": "Taunsa",
+      "connection_count": 2925
+    },
+    {
+      "latitude": 56.8649,
+      "longitude": 35.8942,
+      "country": "RU",
+      "city": "Tver",
+      "connection_count": 2915
+    },
+    {
+      "latitude": 40.9513,
+      "longitude": 117.9535,
+      "country": "CN",
+      "city": "Chengde",
+      "connection_count": 2904
+    },
+    {
+      "latitude": 59.2248,
+      "longitude": 39.8872,
+      "country": "RU",
+      "city": "Vologda",
+      "connection_count": 2890
+    },
+    {
+      "latitude": 45.4321,
+      "longitude": 35.8179,
+      "country": "UA",
+      "city": "Shchyolkino",
+      "connection_count": 2875
+    },
+    {
+      "latitude": -16.5002,
+      "longitude": -68.1493,
+      "country": "BO",
+      "city": "La Paz",
+      "connection_count": 2866
+    },
+    {
+      "latitude": 47.0905,
+      "longitude": 37.5436,
+      "country": "UA",
+      "city": "Mariupol",
+      "connection_count": 2826
+    },
+    {
+      "latitude": 7.0712,
+      "longitude": 125.6089,
+      "country": "PH",
+      "city": "Davao City",
+      "connection_count": 2793
+    },
+    {
+      "latitude": 18.5211,
+      "longitude": 73.8502,
+      "country": "IN",
+      "city": "Pune",
+      "connection_count": 2764
+    },
+    {
+      "latitude": 59.5686,
+      "longitude": 150.8133,
+      "country": "RU",
+      "city": "Magadan",
+      "connection_count": 2748
+    },
+    {
+      "latitude": 35.8184,
+      "longitude": 140.1232,
+      "country": "JP",
+      "city": "Inzai",
+      "connection_count": 2737
+    },
+    {
+      "latitude": 33.364,
+      "longitude": 120.1592,
+      "country": "CN",
+      "city": "Yancheng",
+      "connection_count": 2731
+    },
+    {
+      "latitude": 30.7339,
+      "longitude": 76.7889,
+      "country": "IN",
+      "city": "Chandigarh",
+      "connection_count": 2730
+    },
+    {
+      "latitude": 31.7685,
+      "longitude": 119.9527,
+      "country": "CN",
+      "city": "Unknown",
+      "connection_count": 2721
+    },
+    {
+      "latitude": -17.7834,
+      "longitude": -63.1822,
+      "country": "BO",
+      "city": "Santa Cruz de la Sierra",
+      "connection_count": 2719
+    },
+    {
+      "latitude": 23.8233,
+      "longitude": 90.365,
+      "country": "BD",
+      "city": "Dhaka",
+      "connection_count": 2717
+    },
+    {
+      "latitude": 48.2048,
+      "longitude": 16.3801,
+      "country": "AT",
+      "city": "Unknown",
+      "connection_count": 2684
+    },
+    {
+      "latitude": 37.5074,
+      "longitude": 122.1225,
+      "country": "CN",
+      "city": "Weihai",
+      "connection_count": 2635
+    },
+    {
+      "latitude": -5.4291,
+      "longitude": 105.2615,
+      "country": "ID",
+      "city": "Bandar Lampung",
+      "connection_count": 2632
+    },
+    {
+      "latitude": 67.4994,
+      "longitude": 64.0579,
+      "country": "RU",
+      "city": "Vorkuta",
+      "connection_count": 2611
+    },
+    {
+      "latitude": 23.0276,
+      "longitude": 72.5871,
+      "country": "IN",
+      "city": "Ahmedabad",
+      "connection_count": 2575
+    },
+    {
+      "latitude": 38.4736,
+      "longitude": 106.2662,
+      "country": "CN",
+      "city": "Yinchuan",
+      "connection_count": 2571
+    },
+    {
+      "latitude": 58.5903,
+      "longitude": 49.6543,
+      "country": "RU",
+      "city": "Kirov",
+      "connection_count": 2553
+    },
+    {
+      "latitude": 24.9889,
+      "longitude": 121.3176,
+      "country": "TW",
+      "city": "Taoyuan District",
+      "connection_count": 2544
+    },
+    {
+      "latitude": 29.3706,
+      "longitude": 47.9697,
+      "country": "KW",
+      "city": "Kuwait City",
+      "connection_count": 2537
+    },
+    {
+      "latitude": 56.136,
+      "longitude": 47.2513,
+      "country": "RU",
+      "city": "Cheboksary",
+      "connection_count": 2537
+    },
+    {
+      "latitude": 33.63,
+      "longitude": 114.6353,
+      "country": "CN",
+      "city": "Zhoukou",
+      "connection_count": 2534
+    },
+    {
+      "latitude": 39.9357,
+      "longitude": 119.5884,
+      "country": "CN",
+      "city": "Qinhuangdao",
+      "connection_count": 2517
+    },
+    {
+      "latitude": -33.914,
+      "longitude": 18.4129,
+      "country": "ZA",
+      "city": "Cape Town",
+      "connection_count": 2494
+    },
+    {
+      "latitude": 6.2529,
+      "longitude": -75.5646,
+      "country": "CO",
+      "city": "Medellín",
+      "connection_count": 2486
+    },
+    {
+      "latitude": 41.0019,
+      "longitude": 28.9645,
+      "country": "TR",
+      "city": "Istanbul",
+      "connection_count": 2475
+    },
+    {
+      "latitude": 49.9713,
+      "longitude": 82.6103,
+      "country": "KZ",
+      "city": "Ust-Kamenogorsk",
+      "connection_count": 2464
+    },
+    {
+      "latitude": 43.2525,
+      "longitude": 76.9115,
+      "country": "KZ",
+      "city": "Almaty",
+      "connection_count": 2448
+    },
+    {
+      "latitude": 53.9033,
+      "longitude": 86.7138,
+      "country": "RU",
+      "city": "Prokopyevsk",
+      "connection_count": 2425
+    },
+    {
+      "latitude": 19.6871,
+      "longitude": 97.2196,
+      "country": "MM",
+      "city": "Unknown",
+      "connection_count": 2393
+    },
+    {
+      "latitude": 30.8707,
+      "longitude": 120.0898,
+      "country": "CN",
+      "city": "Huzhou",
+      "connection_count": 2382
+    },
+    {
+      "latitude": 37.353,
+      "longitude": -121.9544,
+      "country": "US",
+      "city": "Santa Clara",
+      "connection_count": 2380
+    },
+    {
+      "latitude": 41.0817,
+      "longitude": 28.8867,
+      "country": "TR",
+      "city": "Istanbul",
+      "connection_count": 2377
+    },
+    {
+      "latitude": 14.8257,
+      "longitude": 120.2815,
+      "country": "PH",
+      "city": "Olongapo City",
+      "connection_count": 2335
+    },
+    {
+      "latitude": 53.362,
+      "longitude": 83.7279,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 2326
+    },
+    {
+      "latitude": 55.7585,
+      "longitude": 60.7079,
+      "country": "RU",
+      "city": "Ozersk",
+      "connection_count": 2312
+    },
+    {
+      "latitude": 30.0046,
+      "longitude": 31.2044,
+      "country": "EG",
+      "city": "Giza",
+      "connection_count": 2307
+    },
+    {
+      "latitude": 48.9742,
+      "longitude": 8.1851,
+      "country": "FR",
+      "city": "Lauterbourg",
+      "connection_count": 2304
+    },
+    {
+      "latitude": 41.8486,
+      "longitude": -87.6288,
+      "country": "US",
+      "city": "Chicago",
+      "connection_count": 2280
+    },
+    {
+      "latitude": 37.684,
+      "longitude": 112.7547,
+      "country": "CN",
+      "city": "Jinzhong",
+      "connection_count": 2278
+    },
+    {
+      "latitude": 55.8654,
+      "longitude": 38.4503,
+      "country": "RU",
+      "city": "Noginsk",
+      "connection_count": 2277
+    },
+    {
+      "latitude": 51.5177,
+      "longitude": -0.6215,
+      "country": "GB",
+      "city": "Slough",
+      "connection_count": 2276
+    },
+    {
+      "latitude": 25.2925,
+      "longitude": 51.5321,
+      "country": "QA",
+      "city": "Doha",
+      "connection_count": 2275
+    },
+    {
+      "latitude": 10.1135,
+      "longitude": -68.0678,
+      "country": "VE",
+      "city": "Tocuyito",
+      "connection_count": 2260
+    },
+    {
+      "latitude": 22.3539,
+      "longitude": 114.1342,
+      "country": "HK",
+      "city": "Ha Kwai Chung",
+      "connection_count": 2232
+    },
+    {
+      "latitude": 50.6028,
+      "longitude": 36.5794,
+      "country": "RU",
+      "city": "Belgorod",
+      "connection_count": 2225
+    },
+    {
+      "latitude": 51.5164,
+      "longitude": -0.093,
+      "country": "GB",
+      "city": "City of London",
+      "connection_count": 2224
+    },
+    {
+      "latitude": 43.3103,
+      "longitude": 45.6909,
+      "country": "RU",
+      "city": "Grozny",
+      "connection_count": 2205
+    },
+    {
+      "latitude": 33.7233,
+      "longitude": 73.0435,
+      "country": "PK",
+      "city": "Islamabad",
+      "connection_count": 2153
+    },
+    {
+      "latitude": 34.0354,
+      "longitude": 113.8608,
+      "country": "CN",
+      "city": "Xuchang",
+      "connection_count": 2128
+    },
+    {
+      "latitude": 53.3267,
+      "longitude": 34.3023,
+      "country": "RU",
+      "city": "Bezhitsa",
+      "connection_count": 2119
+    },
+    {
+      "latitude": 55.4503,
+      "longitude": 65.3288,
+      "country": "RU",
+      "city": "Kurgan",
+      "connection_count": 2115
+    },
+    {
+      "latitude": 39.9207,
+      "longitude": 32.854,
+      "country": "TR",
+      "city": "Ankara",
+      "connection_count": 2090
+    },
+    {
+      "latitude": 56.3327,
+      "longitude": 44.0012,
+      "country": "RU",
+      "city": "Unknown",
+      "connection_count": 2074
+    },
+    {
+      "latitude": -24.2482,
+      "longitude": -54.7709,
+      "country": "PY",
+      "city": "Katueté",
+      "connection_count": 2073
+    },
+    {
+      "latitude": 50.8207,
+      "longitude": 37.1569,
+      "country": "RU",
+      "city": "Pogorelovka",
+      "connection_count": 2068
+    },
+    {
+      "latitude": 13.6927,
+      "longitude": -89.1917,
+      "country": "SV",
+      "city": "San Salvador",
+      "connection_count": 2022
+    },
+    {
+      "latitude": 35.0195,
+      "longitude": 110.9848,
+      "country": "CN",
+      "city": "Yuncheng",
+      "connection_count": 2001
+    },
+    {
+      "latitude": -26.2309,
+      "longitude": 28.0583,
+      "country": "ZA",
+      "city": "Johannesburg",
+      "connection_count": 1955
+    },
+    {
+      "latitude": 30.0355,
+      "longitude": 31.223,
+      "country": "EG",
+      "city": "Unknown",
+      "connection_count": 1952
+    },
+    {
+      "latitude": 31.7279,
+      "longitude": 116.5157,
+      "country": "CN",
+      "city": "Lu'an",
+      "connection_count": 1950
+    },
+    {
+      "latitude": 45.2453,
+      "longitude": 38.1272,
+      "country": "RU",
+      "city": "Slavyansk-na-Kubani",
+      "connection_count": 1948
+    },
+    {
+      "latitude": 25.5943,
+      "longitude": 85.1352,
+      "country": "IN",
+      "city": "Patna",
+      "connection_count": 1935
+    },
+    {
+      "latitude": 31.1261,
+      "longitude": 29.7942,
+      "country": "EG",
+      "city": "Al Ajami",
+      "connection_count": 1913
+    },
+    {
+      "latitude": 45.6599,
+      "longitude": 8.7929,
+      "country": "IT",
+      "city": "Gallarate",
+      "connection_count": 1911
+    },
+    {
+      "latitude": 40.812,
+      "longitude": 111.6455,
+      "country": "CN",
+      "city": "Hohhot",
+      "connection_count": 1910
+    },
+    {
+      "latitude": 34.8425,
+      "longitude": 135.5039,
+      "country": "JP",
+      "city": "Osaka",
+      "connection_count": 1898
+    },
+    {
+      "latitude": 45.75,
+      "longitude": 126.65,
+      "country": "CN",
+      "city": "Harbin",
+      "connection_count": 1880
+    },
+    {
+      "latitude": 3.1394,
+      "longitude": 101.5846,
+      "country": "MY",
+      "city": "Petaling Jaya",
+      "connection_count": 1863
+    },
+    {
+      "latitude": 33.5194,
+      "longitude": 36.2888,
+      "country": "SY",
+      "city": "Damascus",
+      "connection_count": 1855
+    },
+    {
+      "latitude": 21.9837,
+      "longitude": 96.0849,
+      "country": "MM",
+      "city": "Mandalay",
+      "connection_count": 1835
+    },
+    {
+      "latitude": 21.0184,
+      "longitude": 105.8461,
+      "country": "VN",
+      "city": "Hanoi",
+      "connection_count": 1820
+    },
+    {
+      "latitude": 32.6211,
+      "longitude": 44.0281,
+      "country": "IQ",
+      "city": "Karbala",
+      "connection_count": 1814
+    },
+    {
+      "latitude": 28,
+      "longitude": 84,
+      "country": "NP",
+      "city": "Unknown",
+      "connection_count": 1812
+    },
+    {
+      "latitude": 29.9654,
+      "longitude": 77.5428,
+      "country": "IN",
+      "city": "Sahāranpur",
+      "connection_count": 1791
+    },
+    {
+      "latitude": 31.3709,
+      "longitude": 73.0336,
+      "country": "PK",
+      "city": "Faisalabad",
+      "connection_count": 1789
+    },
+    {
+      "latitude": 41.7076,
+      "longitude": 125.9227,
+      "country": "CN",
+      "city": "Tonghua",
+      "connection_count": 1779
+    },
+    {
+      "latitude": 10.4458,
+      "longitude": -67.0029,
+      "country": "VE",
+      "city": "Ruiz Pineda",
+      "connection_count": 1777
+    },
+    {
+      "latitude": 35.7204,
+      "longitude": -0.6659,
+      "country": "DZ",
+      "city": "Oran",
+      "connection_count": 1745
+    },
+    {
+      "latitude": 45.5397,
+      "longitude": -122.9638,
+      "country": "US",
+      "city": "Hillsboro",
+      "connection_count": 1744
+    },
+    {
+      "latitude": 31.3522,
+      "longitude": 118.4451,
+      "country": "CN",
+      "city": "Wuhu",
+      "connection_count": 1742
+    },
+    {
+      "latitude": 34.0544,
+      "longitude": -118.244,
+      "country": "US",
+      "city": "Unknown",
+      "connection_count": 1739
+    },
+    {
+      "latitude": 54.8582,
+      "longitude": 53.0801,
+      "country": "RU",
+      "city": "Aznakayevo",
+      "connection_count": 1724
+    },
+    {
+      "latitude": 44.447,
+      "longitude": 26.0185,
+      "country": "RO",
+      "city": "Bucharest",
+      "connection_count": 1717
+    },
+    {
+      "latitude": 47.43,
+      "longitude": 8.5718,
+      "country": "CH",
+      "city": "Zurich",
+      "connection_count": 1711
+    },
+    {
+      "latitude": 40.1814,
+      "longitude": 44.5102,
+      "country": "AM",
+      "city": "Yerevan",
+      "connection_count": 1708
+    },
+    {
+      "latitude": -33.8726,
+      "longitude": 151.0387,
+      "country": "AU",
+      "city": "Sydney",
+      "connection_count": 1707
+    },
+    {
+      "latitude": 36.5312,
+      "longitude": 3.0698,
+      "country": "DZ",
+      "city": "Blida",
+      "connection_count": 1702
+    },
+    {
+      "latitude": 33.7568,
+      "longitude": 44.6124,
+      "country": "IQ",
+      "city": "Baqubah",
+      "connection_count": 1683
+    },
+    {
+      "latitude": 51.1876,
+      "longitude": 71.4491,
+      "country": "KZ",
+      "city": "Astana",
+      "connection_count": 1675
+    },
+    {
+      "latitude": 42.8145,
+      "longitude": 47.1199,
+      "country": "RU",
+      "city": "Buynaksk",
+      "connection_count": 1659
+    },
+    {
+      "latitude": 24.3146,
+      "longitude": 89.568,
+      "country": "BD",
+      "city": "Sirajganj",
+      "connection_count": 1655
+    },
+    {
+      "latitude": 52.964,
+      "longitude": 36.0744,
+      "country": "RU",
+      "city": "Oryol",
+      "connection_count": 1651
+    },
+    {
+      "latitude": 19.0748,
+      "longitude": 72.8856,
+      "country": "IN",
+      "city": "Mumbai",
+      "connection_count": 1622
+    },
+    {
+      "latitude": 38.93,
+      "longitude": -77.35,
+      "country": "US",
+      "city": "Reston",
+      "connection_count": 1604
+    },
+    {
+      "latitude": 53.3744,
+      "longitude": 51.3488,
+      "country": "RU",
+      "city": "Otradnyy",
+      "connection_count": 1598
+    },
+    {
+      "latitude": 47.22,
+      "longitude": 39.7077,
+      "country": "RU",
+      "city": "Rostov-on-Don",
+      "connection_count": 1590
+    },
+    {
+      "latitude": 43.1479,
+      "longitude": 12.1097,
+      "country": "IT",
+      "city": "Unknown",
+      "connection_count": 1590
+    },
+    {
+      "latitude": 53.7116,
+      "longitude": 84.9535,
+      "country": "RU",
+      "city": "Zarinsk",
+      "connection_count": 1586
+    },
+    {
+      "latitude": 52.0901,
+      "longitude": 4.3361,
+      "country": "NL",
+      "city": "The Hague",
+      "connection_count": 1584
+    },
+    {
+      "latitude": 44.6004,
+      "longitude": 40.1025,
+      "country": "RU",
+      "city": "Maykop",
+      "connection_count": 1571
+    },
+    {
+      "latitude": 16.1667,
+      "longitude": 107.8333,
+      "country": "VN",
+      "city": "Unknown",
+      "connection_count": 1571
+    },
+    {
+      "latitude": 10.2462,
+      "longitude": -66.4165,
+      "country": "VE",
+      "city": "Unknown",
+      "connection_count": 1559
+    },
+    {
+      "latitude": 40.3771,
+      "longitude": 49.8875,
+      "country": "AZ",
+      "city": "Baku",
+      "connection_count": 1555
+    },
+    {
+      "latitude": 42.8696,
+      "longitude": 74.5932,
+      "country": "KG",
+      "city": "Bishkek",
+      "connection_count": 1542
+    },
+    {
+      "latitude": 44.0562,
+      "longitude": 43.0707,
+      "country": "RU",
+      "city": "Pyatigorsk",
+      "connection_count": 1533
+    }
+  ]
